@@ -1433,11 +1433,11 @@ border-radius: 10px;
 
 .form-div {
     position: absolute;
-    top: 10%;
+    top: 0%;
     right: 5%;
     z-index: 10;
     background: rgba(255, 255, 255, 0.9);
-    padding: 20px;
+    padding: 10px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
