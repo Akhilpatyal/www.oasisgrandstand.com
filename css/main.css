@@ -1502,11 +1502,12 @@ color: #fff;background-color: #844f1bf4; border-radius: 10px; padding-left: 4px;
     .newContent{
         display: none;
     }
+
     
 }
 @media screen and (max-width:790px) {
     .form-div-status{
         display: none;
     }
-    
+
 }
