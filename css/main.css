@@ -1509,5 +1509,8 @@ color: #fff;background-color: #844f1bf4; border-radius: 10px; padding-left: 4px;
     .form-div-status{
         display: none;
     }
+    .topsec img{
+        height: 60vh!important;
+    }
 
 }
